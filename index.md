@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: Readme data
 layout: template
 filename: NAME OF THIS .md FILE HERE
 --- 
