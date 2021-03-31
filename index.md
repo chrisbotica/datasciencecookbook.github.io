@@ -1,7 +1,7 @@
 ---
 title: Readme data
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: index.md
 --- 
 # datasciencecookbook.github.io
 

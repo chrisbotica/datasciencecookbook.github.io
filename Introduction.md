@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: Introduction.md
 --- 
 
 ### Here is a push of markdown

@@ -1,7 +1,7 @@
 ---
 title: Recipe 1
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: Recipe_1.md
 --- 
 
 ### random recipe
